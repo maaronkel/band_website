@@ -16,5 +16,3 @@ toggle.addEventListener('input', e => {
     body.classList.remove('dark-theme');
   }
 });
-
-
